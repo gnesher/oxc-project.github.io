@@ -71,7 +71,7 @@ Or save it to your package.json:
 ::: code-group
 
 ```sh [npm]
-$ npm add -D oxlint
+$ npm i -D oxlint
 ```
 
 ```sh [pnpm]
